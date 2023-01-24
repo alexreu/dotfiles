@@ -1,2 +1,2 @@
-alias kc='kubectl'
-alias gitsha='git rev-parse HEAD'
+alias tests:open = './simplon exec ui npm run tests:open'
+alias lint = './simplon exec ui npm run lint'
