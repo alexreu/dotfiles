@@ -1,0 +1,2 @@
+alias kc='kubectl'
+alias gitsha='git rev-parse HEAD'
